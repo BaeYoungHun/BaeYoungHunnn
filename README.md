@@ -31,3 +31,8 @@
 - 게임 내 음향 요소를 최대한 활용하여 플레이어에게 공포와 긴장감을 전달한다.  
 
 <br><br>
+
+# [관련 이미지 & 동영상]  
+- 이미지  
+  <img src="./image01.png" widht="400" height="600">
+  <img src="./image02.png" widht="300" height="450"> 
