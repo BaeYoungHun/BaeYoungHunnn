@@ -35,4 +35,4 @@
 # [관련 이미지 & 동영상]  
 - 이미지  
   <img src="./img/image01.png" widht="200" height="500">
-  <img src="./img/image02.png" widht="180" height="500"> 
+  <img src="./img/image02.png" widht="180" height="400"> 
