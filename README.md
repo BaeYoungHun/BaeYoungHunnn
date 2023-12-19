@@ -97,3 +97,6 @@
 |2|문(door)|<img src="./img/image04.png" widht="150" height="150">|  
 |3|몬스터1(monster1)|<img src="./img/image05.png" widht="150" height="150">|  
 |4|몬스터2(monster2)|<img src="./img/image06.png" widht="150" height="150">|  
+|5|노트(note)|<img src="./img/image07.png" widht="150" height="150">|  
+|6|비(Rain)|<img src="./img/image08.png" widht="150" height="150">|  
+|6|체력(HP)|<img src="./img/image09.png" widht="150" height="150">|  
