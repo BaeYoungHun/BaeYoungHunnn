@@ -200,7 +200,14 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image16.png" widht="200" height="500">  
 <img src="./img/image17.png" widht="200" height="500">  
 
+## 6주차
+시퀀스에 연타기능을 넣어보려고 했으나 실패.  
 
+## 7주차  
+중간고사  
+
+## 8주차
+ 
 
 
 
