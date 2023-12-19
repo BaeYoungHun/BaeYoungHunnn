@@ -215,58 +215,58 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image19.png" widht="200" height="500">  
 ## 10주차
 랜드스케이프 맵 구현  
-<img src="./img/image20png" widht="200" height="500">  
+<img src="./img/image20.png" widht="200" height="500">  
 ## 11주차
 랜드스케이프 맵에 집 구현  
-<img src="./img/image21png" widht="200" height="500">  
+<img src="./img/image21.png" widht="200" height="500">  
 ## 12주차
 애니메이션 수정, 적 있는곳에 발소리 효과음 구현, 타격소리 구현  
-<img src="./img/image26png" widht="100" height="250">
-<img src="./img/image27png" widht="100" height="250">
+<img src="./img/image26.png" widht="100" height="250">
+<img src="./img/image27.png" widht="100" height="250">
 시퀀스 2개 구현 
-<img src="./img/image22png" widht="100" height="250">
-<img src="./img/image23png" widht="100" height="250">  
-<img src="./img/image24png" widht="100" height="250">  
-<img src="./img/image25png" widht="100" height="250">  
+<img src="./img/image22.png" widht="100" height="250">
+<img src="./img/image23.png" widht="100" height="250">  
+<img src="./img/image24.png" widht="100" height="250">  
+<img src="./img/image25.png" widht="100" height="250">  
 맵 추가 구현  
-<img src="./img/image28png" widht="200" height="500">  
+<img src="./img/image28.png" widht="200" height="500">  
 
 ## 13주차
 맵 추가 구현  
-<img src="./img/image29png" widht="200" height="500">  
+<img src="./img/image29.png" widht="200" height="500">  
 jumpscare 구현  
-<img src="./img/image31png" widht="200" height="500">  
+<img src="./img/image31.png" widht="200" height="500">  
 총 구현  
-<img src="./img/image30png" widht="200" height="500">  
+<img src="./img/image30.png" widht="200" height="500">  
 총을 적에게 맞출시 파티클 효과 구현  
-<img src="./img/image32png" widht="200" height="500">  
+<img src="./img/image32.png" widht="200" height="500">  
 헤드, 몸통부위를 나눠 적용되는 데미지 구현  
 
 ## 14주차
 스킵버튼 구현  
-<img src="./img/image33png" widht="200" height="500">  
+<img src="./img/image33.png" widht="200" height="500">  
 편지를 볼 수 있는 오브젝트 구현  
-<img src="./img/image07png" widht="200" height="500">  
+<img src="./img/image07.png" widht="200" height="500">  
 방안 텍스쳐 수정  
-<img src="./img/image34png" widht="100" height="250">  
-<img src="./img/image35png" widht="100" height="250">  
+<img src="./img/image34.png" widht="100" height="250">  
+<img src="./img/image35.png" widht="100" height="250">  
 postprocessvloume 효과의 먼지 효과와 vhs효과 구현  
-<img src="./img/image36png" widht="200" height="500">  
+<img src="./img/image36.png" widht="200" height="500">  
 그래비티, 피 조형 구현  
-<img src="./img/image37png" widht="100" height="250">  
-<img src="./img/image38png" widht="100" height="250">  
-<img src="./img/image39png" widht="100" height="250">  
+<img src="./img/image37.png" widht="100" height="250">  
+<img src="./img/image38.png" widht="100" height="250">  
+<img src="./img/image39.png" widht="100" height="250">  
 트리거를 밟게 되면 소리나는 효과 구현  
-<img src="./img/image40png" widht="100" height="250">  
-<img src="./img/image41png" widht="100" height="250">  
+<img src="./img/image40.png" widht="100" height="250">  
+<img src="./img/image41.png" widht="100" height="250">  
 플레이어가 지형에 따라 다르게 소리나는 효과 구현  
-<img src="./img/image42png" widht="200" height="500">  
+<img src="./img/image42.png" widht="200" height="500">  
 메인화면, 정지, 설정, 끝내기 효과 구현   
-<img src="./img/image43png" widht="100" height="250">  
-<img src="./img/image44png" widht="100" height="250">  
-<img src="./img/image45png" widht="100" height="250">  
+<img src="./img/image43.png" widht="100" height="250">  
+<img src="./img/image44.png" widht="100" height="250">  
+<img src="./img/image45.png" widht="100" height="250">  
 마지막 도착지점 구현  
-<img src="./img/image46png" widht="200" height="500">  
+<img src="./img/image46.png" widht="200" height="500">  
 
 ## 15주차
 기말고사  
