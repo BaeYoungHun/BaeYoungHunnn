@@ -222,7 +222,7 @@ postproessvloume 먼지효과, vhs효과 구현
 ## 12주차
 애니메이션 수정, 적 있는곳에 발소리 효과음 구현, 타격소리 구현  
 <img src="./img/image26.png" widht="100" height="250">
-<img src="./img/image27.png" widht="100" height="250">
+<img src="./img/image27.png" widht="100" height="250">  
 시퀀스 2개 구현 
 <img src="./img/image22.png" widht="100" height="250">
 <img src="./img/image23.png" widht="100" height="250">  
