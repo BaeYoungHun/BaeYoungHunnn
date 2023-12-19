@@ -176,10 +176,22 @@ postproessvloume 먼지효과, vhs효과 구현
 ## 2주차
 바디캠 구현  
 앉기, 뛰기, 구현  
+<img src="./img/image10.png" widht="200" height="500">  
 
 ## 3주차  
+적 AI구현  
+<img src="./img/image11.png" widht="200" height="500">  
 
+## 4주차  
+연타 이벤트
+<img src="./img/image12.png" widht="200" height="500">  
 
+###성공시에
+<img src="./img/image13.png" widht="200" height="500"> 
+
+###실패시
+<img src="./img/image14.png" widht="200" height="500"> 
+## 5주차
 
 
 
