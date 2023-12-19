@@ -34,5 +34,5 @@
 
 # [관련 이미지 & 동영상]  
 - 이미지  
-  <img src="./img/image01.png" widht="400" height="600">
-  <img src="./img/image02.png" widht="300" height="450"> 
+  <img src="./img/image01.png" widht="200" height="500">
+  <img src="./img/image02.png" widht="200" height="500"> 
