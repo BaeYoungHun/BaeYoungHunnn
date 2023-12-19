@@ -183,15 +183,22 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image11.png" widht="200" height="500">  
 
 ## 4주차  
-연타 이벤트  
+연타 이벤트 구현
 <img src="./img/image12.png" widht="200" height="500">  
 
-###성공시에  
+### 성공시에  
 <img src="./img/image13.png" widht="200" height="500"> 
 
-###실패시  
-<img src="./img/image14.png" widht="200" height="500"> 
+### 실패시  
+<img src="./img/image14.png" widht="200" height="500">  
+
 ## 5주차
+총에 맞을시 ai가 피가 줄어드는 구현  
+적 체력이 다 할시 죽는것 구현  
+적이 플레이어한테 공격하는 것 구현  
+<img src="./img/image15.png" widht="200" height="500">  
+<img src="./img/image16.png" widht="200" height="500">  
+<img src="./img/image17.png" widht="200" height="500">  
 
 
 
