@@ -171,11 +171,11 @@ postproessvloume 먼지효과, vhs효과 구현
 
 # [프로토타입 개발작업 일정 (13주개발)]
 ## 1주차
-주제 정하기  
+### 주제 정하기  
 
 ## 2주차
-바디캠 구현  
-앉기, 뛰기, 구현  
+### 바디캠 구현  
+### 앉기, 뛰기, 구현  
 <img src="./img/image10.png" widht="200" height="500">  
 
 ## 3주차  
@@ -183,47 +183,48 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image11.png" widht="200" height="500">  
 
 ## 4주차  
-연타 이벤트 구현
+### 연타 이벤트 구현
 <img src="./img/image12.png" widht="200" height="500">  
 
-### 성공시에  
+#### 성공시에  
 <img src="./img/image13.png" widht="200" height="500"> 
 
-### 실패시  
+#### 실패시  
 <img src="./img/image14.png" widht="200" height="500">  
 
 ## 5주차
-총에 맞을시 ai가 피가 줄어드는 구현  
-적 체력이 다 할시 죽는것 구현  
-적이 플레이어한테 공격하는 것 구현  
+### 총에 맞을시 ai가 피가 줄어드는 구현  
+### 적 체력이 다 할시 죽는것 구현  
+### 적이 플레이어한테 공격하는 것 구현  
 <img src="./img/image15.png" widht="200" height="500">  
 <img src="./img/image16.png" widht="200" height="500">  
 <img src="./img/image17.png" widht="200" height="500">  
 
 ## 6주차
-시퀀스에 연타기능을 넣어보려고 했으나 실패.  
+### 시퀀스에 연타기능을 넣어보려고 했으나 실패.  
 
 ## 7주차  
-중간고사 기간  
+### 중간고사 기간  
 
 ## 8주차
-중간 보고서  
+### 중간 보고서  
 
 ## 9주차
-모델링 변경  
+### 모델링 변경  
 <img src="./img/image18.png" widht="200" height="500">
 <img src="./img/image19.png" widht="200" height="500">  
 ## 10주차
-랜드스케이프 맵 구현  
+### 랜드스케이프 맵 구현  
 <img src="./img/image20.png" widht="200" height="500">  
 ## 11주차
-랜드스케이프 맵에 집 구현  
+### 랜드스케이프 맵에 집 구현  
 <img src="./img/image21.png" widht="200" height="500">  
 ## 12주차
-애니메이션 수정, 적 있는곳에 발소리 효과음 구현, 타격소리 구현  
+### 애니메이션 수정, 적 있는곳에 발소리 효과음 구현, 타격소리 구현  
 <img src="./img/image26.png" widht="100" height="250">
 <img src="./img/image27.png" widht="100" height="250">  
-시퀀스 2개 구현 
+
+### 시퀀스 2개 구현  
 <img src="./img/image22.png" widht="100" height="250">
 <img src="./img/image23.png" widht="100" height="250">  
 <img src="./img/image24.png" widht="100" height="250">  
@@ -232,45 +233,57 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image28.png" widht="200" height="500">  
 
 ## 13주차
-맵 추가 구현  
+### 맵 추가 구현  
 <img src="./img/image29.png" widht="200" height="500">  
-jumpscare 구현  
+
+### jumpscare 구현  
 <img src="./img/image31.png" widht="200" height="500">  
-총 구현  
+
+### 총 구현  
 <img src="./img/image30.png" widht="200" height="500">  
-총을 적에게 맞출시 파티클 효과 구현  
+
+### 총을 적에게 맞출시 파티클 효과 구현  
 <img src="./img/image32.png" widht="200" height="500">  
-헤드, 몸통부위를 나눠 적용되는 데미지 구현  
+
+### 헤드, 몸통부위를 나눠 적용되는 데미지 구현  
 
 ## 14주차
-스킵버튼 구현  
+### 스킵버튼 구현  
 <img src="./img/image33.png" widht="200" height="500">  
-편지를 볼 수 있는 오브젝트 구현  
+
+### 편지를 볼 수 있는 오브젝트 구현  
 <img src="./img/image07.png" widht="200" height="500">  
-방안 텍스쳐 수정  
+
+### 방안 텍스쳐 수정  
 <img src="./img/image34.png" widht="100" height="250">  
 <img src="./img/image35.png" widht="100" height="250">  
-postprocessvloume 효과의 먼지 효과와 vhs효과 구현  
+
+### postprocessvloume 효과의 먼지 효과와 vhs효과 구현  
 <img src="./img/image36.png" widht="200" height="500">  
-그래비티, 피 조형 구현  
+
+### 그래비티, 피 조형 구현  
 <img src="./img/image37.png" widht="100" height="250">  
 <img src="./img/image38.png" widht="100" height="250">  
 <img src="./img/image39.png" widht="100" height="250">  
-트리거를 밟게 되면 소리나는 효과 구현  
+
+### 트리거를 밟게 되면 소리나는 효과 구현  
 <img src="./img/image40.png" widht="100" height="250">  
 <img src="./img/image41.png" widht="100" height="250">  
-플레이어가 지형에 따라 다르게 소리나는 효과 구현  
+
+### 플레이어가 지형에 따라 다르게 소리나는 효과 구현  
 <img src="./img/image42.png" widht="200" height="500">  
-메인화면, 정지, 설정, 끝내기 효과 구현   
+
+### 메인화면, 정지, 설정, 끝내기 효과 구현   
 <img src="./img/image43.png" widht="100" height="250">  
 <img src="./img/image44.png" widht="100" height="250">  
 <img src="./img/image45.png" widht="100" height="250">  
-마지막 도착지점 구현  
+
+### 마지막 도착지점 구현  
 <img src="./img/image46.png" widht="200" height="500">  
 
 ## 15주차
-기말고사  
+### 기말고사  
 
 ## 16주차
-기말고사 보고서
+### 기말고사 보고서
 
