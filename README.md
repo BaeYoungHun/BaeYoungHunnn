@@ -285,7 +285,7 @@ postproessvloume 먼지효과, vhs효과 구현
 <img src="./img/image46.png" widht="200" height="500">  
 
 ## 15주차
-### 기말고사  
+### 기말고사 기간  
 
 ## 16주차
 ### 기말고사 보고서
