@@ -1,3 +1,4 @@
+# [게임 플레이 파일](https://drive.google.com/file/d/1T2swkFUFJ_NPyQvKW_tuEgTROn739cnG/view?usp=drive_link)  
 # [목차]
 1.[프로젝트명 : Exit Beyond Fear](#프로젝트명-Exit-Beyond-Fear)  
 2.[컨셉](#컨셉)  
